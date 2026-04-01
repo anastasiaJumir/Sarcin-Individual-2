@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1775079926 source:d:\laborator sda\sarcina 2\2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"problema2.c"
+
+1775079926 d:\laborator sda\sarcina 2\2\problema2.c
+	<stdio.h>
+	<stdlib.h>
+	"problema2.h"
+
+1775079935 d:\laborator sda\sarcina 2\2\problema2.h
+
